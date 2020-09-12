@@ -1,0 +1,165 @@
+head{
+  margin: auto;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    display: inline-block;
+  }
+}
+.headtag{
+  position: relative;
+  line-height: 1;
+  text-align:left;
+  font-size: 50px;
+  width: 400px;
+  bottom: 350px;
+  left: 200px;
+  right: 150px;
+}
+.paragraph{
+  position: relative;
+  line-height: 1;
+  text-align: left;
+  font-size: 20px;
+  width: 600px;
+  left: 150px;
+  bottom: 350px;
+}
+.qualities{
+  position:relative;
+  border-style: solid;
+  background-color: hsl(300, 24%, 96%);
+  width: 400px;
+  height: 30px;
+  left: 680px;
+  right: 200px;
+  bottom: 580px;
+}
+.quality{
+  position: relative;
+  bottom: 15px;
+}
+.requirements{
+  position: relative;
+  border-style: solid;
+  background-color: hsl(300, 24%, 96%);
+  width: 400px;
+  height: 30px;
+  left: 750px;
+  right: 600px;
+  bottom: 560px;
+}
+.require{
+  position: relative;
+  bottom: 15px;
+}
+.replacement{
+  position: relative;
+  border-style: solid;
+  background-color: hsl(300, 24%, 96%);
+  width: 330px;
+  height: 30px;
+  left: 890px;
+  right: 780px;
+  bottom: 540px;
+}
+.recap{
+  position: relative;
+  bottom: 15px;
+}
+.body-container{
+  position: relative;
+  background-color: hsl(303,10%,53%);
+  width: 350px;
+  height: 210px;
+  bottom: 390px;
+  left: 900px;
+}
+.pic1{
+  margin: 5px 0 0 5px;
+  border-radius: 50%;
+}
+.name1{
+  color: white;
+  position:relative;
+  left: 90px;
+  bottom: 90px;
+}
+.buy3{
+  color: gold;
+  position: relative;
+  left: 90px;
+  bottom: 100px;
+}
+.wallace{
+  position: relative;
+  bottom:90px;
+}
+.body2{
+  position: relative;
+  background-color: hsl(303,10%,53%);
+  width: 350px;
+  height: 210px;
+  bottom: 610px;
+  left: 500px;
+}
+.pic2{
+  margin: 5px 0 0 5px;
+  border-radius: 50%;
+}
+.name2{
+  color: white;
+  position:relative;
+  left: 90px;
+  bottom: 90px;
+}
+.buy1{
+  color: gold;
+  position: relative;
+  left: 90px;
+  bottom: 100px;
+}
+.smith{
+  position: relative;
+  bottom:90px;
+}
+.body3{
+  position: relative;
+background-color: hsl(303,10%,53%);
+width: 350px;
+height: 210px;
+bottom: 830px;
+left: 100px;
+}
+.pic3{
+  margin: 5px 0 0 5px;
+  border-radius: 50%;
+}
+.name3{
+  color: white;
+  position:relative;
+  left: 90px;
+  bottom: 90px;
+}
+.buy2{
+  color: gold;
+  position: relative;
+  left: 90px;
+  bottom: 100px;
+}
+.robert{
+  position: relative;
+  bottom:90px;
+}
+.pattern{
+  width: 400px;
+  height: 300px;
+  position: relative;
+  bottom: 1050px;
+  left: 1000px;
+  right: 200px;
+}
+.top{
+  position: relative;
+  right: 100px;
+}
